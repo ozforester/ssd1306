@@ -1,2 +1,2 @@
 # ssd1306
-![plot]anoldlab.png
+![plot](anoldlab.png)
